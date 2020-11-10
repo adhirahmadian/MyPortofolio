@@ -6,11 +6,11 @@ Pada _project_ ini, saya melakukan prediksi untuk calon nasabah apakah bisa memb
 
 **Overview**
 
-LendingClub adalah perusahaan pinjaman peer-to-peer asal USA dan berkantor pusat di San Francisco, California. Perusahaan ini memberikan pinjaman secara peer-to-peer pertama dengan jasa keamanan sebagai nilai jual yaitu dengan Securities and Exchange Commission (SEC), selain itu perusahaan ini juga menawarkan perdagangan pinjaman di pasar sekunder. LendingClub adalah platform pinjaman peer-to-peer terbesar di dunia.
+>LendingClub adalah perusahaan pinjaman peer-to-peer asal USA dan berkantor pusat di San Francisco, California. Perusahaan ini memberikan pinjaman secara peer-to-peer pertama dengan jasa keamanan sebagai nilai jual yaitu dengan Securities and Exchange Commission (SEC), selain itu perusahaan ini juga menawarkan perdagangan pinjaman di pasar sekunder. LendingClub adalah platform pinjaman peer-to-peer terbesar di dunia.
 
 **Hasil**
 
-Setelah diuji coba menggunakan data acak, ternyata model ini saya yakin 89% bisa memprediksi apakah calon nasabah bisa membayar lunas pinjamannya.  Untuk selengkapnya klik [disini](https://github.com/adhirahmadian/LendingClubLoan_Project)
+>Setelah diuji coba menggunakan data acak, dengan model ini saya yakin 89% bisa memprediksi apakah calon nasabah bisa membayar lunas pinjamannya.  Untuk selengkapnya klik [disini](https://github.com/adhirahmadian/LendingClubLoan_Project)
 
 
 ## **Project 2**
