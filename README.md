@@ -1,37 +1,36 @@
-## Welcome to GitHub Pages
+# Selamat datang
+## Tentang Saya
 
-You can use the [editor on GitHub](https://github.com/adhirahmadian/Portofolio/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
+Nama saya Adhi Rahmadian, saya _freshgraduate_ dari Biofisika IPB (2020) dan saya sangat menyukai data. 
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Ringkasan biodata saya sebagai berikut:
 
-### Markdown
+```
+Nama :Adhi Rahmadian
+Alamat : Cileunyi, Kab. Bandung, Jawa Barat
+Email : adhirahmadian@outlook.com
+No.HP : 089638782683
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+Pendidikan
+• Master Sains Biofisika (MSi) - Institut Pertanian Bogor (2020)
+• Sarjana Sains Fisika (SSi) - Institut Pertanian Bogor (2018)
 
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
+Pengalaman
+• Asisten Dosen Fisika - Sekolah Vokasi IPB (2018-2020)
+• Asisten Dosen Fisika - IPB (2016-2019)
 ```
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+## _Project Data Science_
 
-### Jekyll Themes
+### [Project 1](https://github.com/adhirahmadian/LendingClubLoan_Project)
+saya melakukan prediksi apakah seorang calon nasabah akan bisa membayar lunas pinjamannya di _LendingClub_
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/adhirahmadian/Portofolio/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+**Overview**
+LendingClub adalah perusahaan pinjaman peer-to-peer asal USA dan berkantor pusat di San Francisco, California. Perusahaan ini memberikan pinjaman secara peer-to-peer pertama dengan jasa keamanan sebagai nilai jual yaitu dengan Securities and Exchange Commission (SEC), selain itu perusahaan ini juga menawarkan perdagangan pinjaman di pasar sekunder. LendingClub adalah platform pinjaman peer-to-peer terbesar di dunia.
 
-### Support or Contact
+**Hasil**
+dari hasil _modelling_ didapatkan nilai f-score sebesar 89%, dan setelah diuji coba menggunakan data acak ternyata model ini bisa memprediksi apakah calon nasabah bisa membayar lunas pinjamannya atau tidak.
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+[Selengkapnya](https://github.com/adhirahmadian/LendingClubLoan_Project)
+
+
