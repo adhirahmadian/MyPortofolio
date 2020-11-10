@@ -1,5 +1,4 @@
-# Selamat datang
-## Tentang Saya
+# Tentang Saya
 
 Nama saya Adhi Rahmadian, saya _freshgraduate_ dari Biofisika IPB (2020) dan saya sangat menyukai data. 
 
@@ -18,9 +17,9 @@ Pengalaman
 • Asisten Dosen Fisika - Sekolah Vokasi IPB (2018-2020)
 • Asisten Dosen Fisika - IPB (2016-2019)
 ```
-## _Project Data Science_
+# _Project Data Science_
 
-### **Project 1**
+## **Project 1**
 Saya melakukan prediksi apakah seorang calon nasabah akan bisa membayar lunas pinjamannya di _LendingClub_
 
 **Overview**
