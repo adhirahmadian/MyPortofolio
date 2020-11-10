@@ -10,7 +10,7 @@ LendingClub adalah perusahaan pinjaman peer-to-peer asal USA dan berkantor pusat
 
 **Hasil**
 
-Setelah diuji coba menggunakan data acak, ternyata model ini saya yakin 89% bisa memprediksi apakah calon nasabah bisa membayar lunas pinjamannya.  [Untuk selengkapnya klik tautan ini](https://github.com/adhirahmadian/LendingClubLoan_Project)
+Setelah diuji coba menggunakan data acak, ternyata model ini saya yakin 89% bisa memprediksi apakah calon nasabah bisa membayar lunas pinjamannya.  Untuk selengkapnya klik [disini](https://github.com/adhirahmadian/LendingClubLoan_Project)
 
 
 ## **Project 2**
@@ -21,7 +21,7 @@ Pada _project_ ini saya  memprediksi harga rumah berdasarkan spesifikasi tertent
 >Dataset ini berisi harga jual rumah untuk King County hingga mencakup Seattle, USA. Data ini mencakup rumah yang dijual antara Mei 2014 dan Mei 2015. 
 
 **Hasil**
->Dengan tingkat kepercayaan >80%, hasil _modelling_ ternyata bisa memprediksi harga rumah di King County, bahkan bila data yang digunakan adalah untuk rumah dengan harga dibawah 2 juta dollar tingkat kepercayaan bisa lebih tinggi lagi. Saya mencoba model ini dengan memprediksi harga rumah dengan data random, rumah yang dijual dengan harga 383.000 dollar berhasil saya prediksi harga rumah tersebut adalah sebesar 381.728 dollar. [Untuk selengkapnya klik tautan ini](https://github.com/adhirahmadian/KC_house_sales)
+>Dengan tingkat kepercayaan >80%, hasil _modelling_ ternyata bisa memprediksi harga rumah di King County, bahkan bila data yang digunakan adalah untuk rumah dengan harga dibawah 2 juta dollar tingkat kepercayaan bisa lebih tinggi lagi. Saya mencoba model ini dengan memprediksi harga rumah dengan data random, rumah yang dijual dengan harga 383.000 dollar berhasil saya prediksi harga rumah tersebut adalah sebesar 381.728 dollar. Untuk selengkapnya klik [disini](https://github.com/adhirahmadian/KC_house_sales)
 
 # Tentang Saya
 
