@@ -37,6 +37,6 @@ Pada _project_ ini saya akan mengevaluasi model regresi untuk memprediksi harga 
 >Dataset ini berisi harga jual rumah untuk King County hingga mencakup Seattle, USA. Data ini mencakup rumah yang dijual antara Mei 2014 dan Mei 2015. 
 
 **Hasil**
->Hasil _modelling_ ternyata bisa memprediksi dengan ketepatan >80% dan akan lebih baik bila data yang digunakan adalah untuk rumah dengan harga dibawah 2 juta dollar. Saya mencoba memprediksi harga rumah dengan data random, rumah yang dijual dengan harga 383.000 dollar berhasil saya prediksi harga rumah tersebut adalah 381.728 dollar. [Selengkapnya...](https://github.com/adhirahmadian/KC_house_sales)
+>Hasil _modelling_ ternyata bisa memprediksi dengan ketepatan >80% dan akan lebih baik bila data yang digunakan adalah untuk rumah dengan harga dibawah 2 juta dollar. Saya mencoba memprediksi harga rumah dengan data random, rumah yang dijual dengan harga 383.000 dollar berhasil saya prediksi harga rumah tersebut adalah sebesar 381.728 dollar. [Selengkapnya...](https://github.com/adhirahmadian/KC_house_sales)
 
 
