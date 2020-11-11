@@ -1,47 +1,50 @@
 # _Project Data Science_
-_Project_ ini saya kerjakan menggunakan python versi 3.7. Klik tautan pada tiap _project_ untuk melihat data dan penjelasan selengkapnya.  
+I did this Project using python version 3. Click the link on each project to see the data and a complete explanation.
 
 ## **Project 1**
-Pada _project_ ini, saya melakukan prediksi untuk calon nasabah apakah bisa membayar lunas pinjamannya di _LendingClub_
+In this project, I made a prediction whether a prospective customer will pay off his loan.
 
 **Overview**
 
->LendingClub adalah perusahaan pinjaman peer-to-peer asal USA dan berkantor pusat di San Francisco, California. Perusahaan ini memberikan pinjaman secara peer-to-peer pertama dengan jasa keamanan sebagai nilai jual yaitu dengan Securities and Exchange Commission (SEC), selain itu perusahaan ini juga menawarkan perdagangan pinjaman di pasar sekunder. LendingClub adalah platform pinjaman peer-to-peer terbesar di dunia.
+>LendingClub is a peer-to-peer lending company from USA headquartered in San Francisco, California. This company provides the first peer-to-peer loan with security services as a selling point, namely the Securities and Exchange Commission (SEC), in addition the company also offers trading loans on the secondary market. LendingClub is the world's largest peer-to-peer lending platform.
 
-**Hasil**
+**Result**
 
->Setelah diuji coba menggunakan data acak, dengan model ini saya yakin 89% bisa memprediksi apakah calon nasabah bisa membayar lunas pinjamannya.  Untuk selengkapnya klik [disini](https://github.com/adhirahmadian/LendingClubLoan_Project)
+![model](/model_lending.png)
+
+>After being tested by random data using this model, I'm sure 89% can predict whether a prospective customer can pay off his loan. 
+
+Click [here](https://github.com/adhirahmadian/LendingClubLoan_Project) to more detail.
 
 
 ## **Project 2**
-Pada _project_ ini saya  memprediksi harga rumah berdasarkan spesifikasi tertentu.
+In this project I will evaluate a regression model to predict house prices based on certain specifications.
 
 **Overview**
 
->Dataset ini berisi harga jual rumah untuk King County hingga mencakup Seattle, USA. Data ini mencakup rumah yang dijual antara Mei 2014 dan Mei 2015. 
+>This dataset contains the selling price of homes for King County to cover Seattle, USA. This data includes homes sold between May 2014 and May 2015.
 
-**Hasil**
->Dengan tingkat kepercayaan >80%, hasil _modelling_ ternyata bisa memprediksi harga rumah di King County, bahkan bila data yang digunakan adalah untuk rumah dengan harga dibawah 2 juta dollar tingkat kepercayaan bisa lebih tinggi lagi. Saya mencoba model ini dengan memprediksi harga rumah dengan data random, rumah yang dijual dengan harga 383.000 dollar berhasil saya prediksi harga rumah tersebut adalah sebesar 381.728 dollar. Untuk selengkapnya klik [disini](https://github.com/adhirahmadian/KC_house_sales)
+**Result**
+>The results of this modeling is able to predict with accuracy above 80% and better if the data used were for houses with prices below 2 million dollars. Finally, I tried to predict the price of the house with random data which was sold for 383,000 dollars and I managed to predict the price of that house was 381,728 dollars. Click [here](https://github.com/adhirahmadian/KingCounty_housesales_Project) to more detail.
 
-# Tentang Saya
+# About Me
+A fresh graduate from IPB Biophysics and really likes data.
 
-Seorang _freshgraduate_ dari Biofisika IPB (2020) dan sangat menyukai data. 
-
-Ringkasan biodata saya sebagai berikut:
+My bio summary is as follows:
 ```
-Nama :Adhi Rahmadian
-Alamat : Cileunyi, Kab. Bandung, Jawa Barat
-Email : adhirahmadian@outlook.com
-No.HP : 089638782683
+Name: Adhi Rahmadian
+Address: Cileunyi, Kab. Bandung West Java (40393)
+Email: adhirahmadian@outlook.com
+Phone: 089638782683
 
-Pendidikan
-• Master Sains Biofisika (MSi) - Institut Pertanian Bogor (2020)
-• Sarjana Sains Fisika (SSi) - Institut Pertanian Bogor (2018)
+Education
+• Master of Science in Biophysics (MSi) - Bogor Agricultural University (2020)
+• Bachelor of Science in Physics (SSi) - Bogor Agricultural University (2018)
 
-Pengalaman
-• Asisten Dosen Fisika - Sekolah Vokasi IPB (2018-2020)
-• Asisten Dosen Fisika - IPB (2016-2019)
-• Author dan Presenter di International Conference of Biomass and Bioenergy (2019 dan 2020)
-• Ketua Pelaksana Seminar Nanophysics and Biophotonic
-• Mengikuti Bootcamp Python, R dan SQL di Udemy 
+Experience
+• Assistant Lecturer of Physics - Vocational School IPB (2018-2020)
+• Assistant Lecturer of Physics - IPB (2016-2019)
+• Author and Presenter at the International Conference of Biomass and Bioenergy (2019 and 2020)
+• Chief Executive of the Nanophysics and Biophotonic Seminar
+• Follow Python, R and SQL Bootcamp on Udemy
 ```
