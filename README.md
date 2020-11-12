@@ -32,6 +32,21 @@ In this project I will evaluate a regression model to predict house prices based
 
 Click [here](https://github.com/adhirahmadian/KingCounty_housesales_Project) to more detail.
 
+## **Project 3**
+In this project, I use YFinance to solve the problem of downloading stock data by offering a reliable, threaded, and Pythonic way to download historical market data from Yahoo! finance.
+
+**Overview**
+
+>I want to see the effect of pandemic lockdown policy to stock market in various aspect, like finance (BCA), daily utility (Unilever), and communication (Telkom).
+
+**Result**
+
+>![model](/close.png)
+
+>we can see that in early april the stock market in all sector (representative) is plummeted because of pandemic lockdown policy. Daily utility has the biggest drop stock because lack of worker working in the factory, so the company can't produce their item like usuall of lockdown policy, but now the stock is recovering
+
+Click [here](https://github.com/adhirahmadian/Tickers_Project) to more detail.
+
 # About Me
 A fresh graduate from IPB Biophysics and really likes data.
 
