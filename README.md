@@ -14,7 +14,7 @@ In this project, I made a prediction whether a prospective customer will pay off
 
 >After being tested by random data using this model, I'm sure 89% can predict whether a prospective customer can pay off his loan. 
 
-Click [here](https://github.com/adhirahmadian/LendingClubLoan_Project) to more detail.
+Click [here](https://github.com/adhirahmadian/LendingClubLoan_Project) for more detail.
 
 
 ## **Project 2**
@@ -30,7 +30,7 @@ In this project I will evaluate a regression model to predict house prices based
 
 >The results of this modeling is able to predict with accuracy above 80% and better if the data used were for houses with prices below 2 million dollars. I tried to predict the price of the house with random data which was sold for 383.000 dollars and I managed to predict the price of that house was 387.413 dollars. 
 
-Click [here](https://github.com/adhirahmadian/KingCounty_housesales_Project) to more detail.
+Click [here](https://github.com/adhirahmadian/KingCounty_housesales_Project) for more detail.
 
 ## **Project 3**
 In this project, I use YFinance to solve the problem of downloading stock data by offering a reliable, threaded, and Pythonic way to download historical market data from Yahoo! finance.
@@ -45,7 +45,7 @@ In this project, I use YFinance to solve the problem of downloading stock data b
 
 >we can see that in early april the stock market in all sector (representative) is plummeted because of pandemic lockdown policy. Daily utility has the biggest drop stock because lack of worker working in the factory, so the company can't produce their item like usuall of lockdown policy, but now the stock is recovering
 
-Click [here](https://github.com/adhirahmadian/Tickers_Project) to more detail.
+Click [here](https://github.com/adhirahmadian/Tickers_Project) for more detail.
 
 ## **Project 4**
 In this project, I want to see movie recommendations based on the similarity between my preferences.
@@ -68,7 +68,7 @@ Indiana Jones and the Last Crusade (1989) |	0.410916 |	140
 
 >The value of Correlation represent of a-movie-that-is-look-like, the higher the value (max = 1) the more like the movie.
 
-Click [here](https://github.com/adhirahmadian/MoviesRecommender_Project) to more detail.
+Click [here](https://github.com/adhirahmadian/MoviesRecommender_Project) for more detail.
 
 
 # About Me
