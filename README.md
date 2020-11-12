@@ -68,7 +68,7 @@ Indiana Jones and the Last Crusade (1989) |	0.410916 |	140
 
 >The value of Correlation represent of a-movie-that-is-look-like, the higher the value (max = 1) the more like the movie.
 
-Click [here](https://github.com/adhirahmadian/Movierecommender_Project) to more detail.
+Click [here](https://github.com/adhirahmadian/MoviesRecommender_Project) to more detail.
 
 
 # About Me
