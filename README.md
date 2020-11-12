@@ -28,7 +28,9 @@ In this project I will evaluate a regression model to predict house prices based
 
 >![model](/house_price_predict.png)
 
->The results of this modeling is able to predict with accuracy above 80% and better if the data used were for houses with prices below 2 million dollars. I tried to predict the price of the house with random data which was sold for 383.000 dollars and I managed to predict the price of that house was 387.413 dollars. Click [here](https://github.com/adhirahmadian/KingCounty_housesales_Project) to more detail.
+>The results of this modeling is able to predict with accuracy above 80% and better if the data used were for houses with prices below 2 million dollars. I tried to predict the price of the house with random data which was sold for 383.000 dollars and I managed to predict the price of that house was 387.413 dollars. 
+
+Click [here](https://github.com/adhirahmadian/KingCounty_housesales_Project) to more detail.
 
 # About Me
 A fresh graduate from IPB Biophysics and really likes data.
