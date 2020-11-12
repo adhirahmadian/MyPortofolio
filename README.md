@@ -10,7 +10,7 @@ In this project, I made a prediction whether a prospective customer will pay off
 
 **Result**
 
-![model](/model_lending.png)
+>![model](/model_lending.png)
 
 >After being tested by random data using this model, I'm sure 89% can predict whether a prospective customer can pay off his loan. 
 
@@ -25,6 +25,9 @@ In this project I will evaluate a regression model to predict house prices based
 >This dataset contains the selling price of homes for King County to cover Seattle, USA. This data includes homes sold between May 2014 and May 2015.
 
 **Result**
+
+>![model](/prediksi_harga.png)
+
 >The results of this modeling is able to predict with accuracy above 80% and better if the data used were for houses with prices below 2 million dollars. Finally, I tried to predict the price of the house with random data which was sold for 383,000 dollars and I managed to predict the price of that house was 381,728 dollars. Click [here](https://github.com/adhirahmadian/KingCounty_housesales_Project) to more detail.
 
 # About Me
