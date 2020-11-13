@@ -1,5 +1,5 @@
 # _Project Data Science_
-I did this Project using python version 3. Click the link on each project to see the data and a complete explanation.
+I did all of this Project using python version 3. Click the link on each project to see the data and a complete explanation.
 
 ## **Project 1**
 In this project, I made a prediction whether a prospective customer will pay off his loan.
@@ -89,7 +89,7 @@ Experience
 • Assistant Lecturer of Physics - Vocational School IPB (2018-2020)
 • Assistant Lecturer of Physics - IPB (2016-2019)
 • Author and Presenter at the International Conference of Biomass and Bioenergy (2019 and 2020)
-• Chief Executive of the Nanophysics and Biophotonic Seminar
-• Follow Python, R and SQL Bootcamp on Udemy
+• Chairman and Speaker in Seminar Nanophysics and Biophotonic
+• Learn Python, R and SQL Bootcamp on Udemy
 ```
-LinkedIn Profile: [Adhi Rahmadian](https://linkedin/in/adhirahmadian)
+LinkedIn Profile: [Adhi Rahmadian](https://linkedin.com/in/adhirahmadian)
