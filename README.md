@@ -70,26 +70,4 @@ Indiana Jones and the Last Crusade (1989) |	0.410916 |	140
 
 Click [here](https://github.com/adhirahmadian/MoviesRecommender_Project) for more detail.
 
-
-# About Me
-A fresh graduate from IPB Biophysics and really likes data.
-
-My bio summary is as follows:
-```
-Name: Adhi Rahmadian
-Address: Cileunyi, Kab. Bandung West Java (40393)
-Email: adhirahmadian@outlook.com
-Phone: 089638782683
-
-Education
-• Master of Science in Biophysics (MSi) - Bogor Agricultural University (2020)
-• Bachelor of Science in Physics (SSi) - Bogor Agricultural University (2018)
-
-Experience
-• Assistant Lecturer of Physics - Vocational School IPB (2018-2020)
-• Assistant Lecturer of Physics - IPB (2016-2019)
-• Author and Presenter at the International Conference of Biomass and Bioenergy (2019 and 2020)
-• Chairman and Speaker in Seminar Nanophysics and Biophotonic
-• Learn Python, R and SQL Bootcamp on Udemy
-```
 LinkedIn Profile: [Adhi Rahmadian](https://linkedin.com/in/adhirahmadian)
